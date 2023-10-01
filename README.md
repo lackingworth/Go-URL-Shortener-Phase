@@ -18,6 +18,13 @@ Go URL shortener application w/ rate limiter and ability to provide custom URL
 ```
 docker-compose up -d
 ```
+## Usage
+
+* To shorten specified URL, send *POST* request to *DOMAIN/api/v1/* with the link provided in JSON format in the body, i.e:
+> ```
+> {"url": "https://github.com/lackingworth"}
+> ```
+
 ## Version History
 
 * v.0.0.1:
