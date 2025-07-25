@@ -1,4 +1,4 @@
-# Go-URL-Shortener
+# Go-URL-Shortener (First Iteration)
 
 Go URL shortener application w/ rate limiter and ability to provide custom URL 
 
